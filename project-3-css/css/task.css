@@ -1,0 +1,113 @@
+.continer{
+    width: 1170px;
+    margin: auto;
+}
+
+.background{
+    background-color: grey;
+    overflow: hidden;
+    margin: -9px -20px;
+    background-attachment: fixed;
+
+}.background ul{
+    list-style: none;
+    float: right;  margin: 3px;
+
+}.background ul li{
+    float: left;
+    overflow: hidden;
+    padding: 12px;
+    color: white;
+}.background ul li:hover{
+    background-color:black;
+    
+} .img{
+    background-image: url("../newfolder/img2.jpg");  
+      background-size: cover;
+      height: 600px; 
+      margin:5px -20px 2px -10px ;
+}.imges{
+     color: blanchedalmond;
+     text-align: center;padding: 250px 500px;
+}.imges h1{
+    margin: 0px;
+    font-size: 50px;
+    width: 300px;
+
+    border-top: 2px solid rebeccapurple;
+    border-bottom: 2px solid rebeccapurple;
+
+}
+.link{
+    background-color: whitesmoke;
+    overflow: hidden;
+    margin:0px -20px;
+}.link ul{
+    float: right;
+    overflow: hidden;
+    list-style: none;
+    padding: -1px 20px;
+    margin:0px ;
+
+}.link ul li{
+    float: right;
+    overflow: hidden;
+    padding: 10px;
+    background-color: rgb(252, 244, 244);
+    width: 80px;
+    text-align: center;
+    height: 30px;
+    margin: 0px 2px;
+    
+}.link ul li:hover{
+    background-color: white;
+    
+}.link ul li a{
+    text-decoration: none;
+    color:black;
+
+}.cloth{
+    float: right;
+    margin:10px 500px;
+    background-color: rosybrown;
+    font-size: 35px;
+    direction: rtl;
+        
+    
+}.woman,.man{
+    margin: 40px;
+}
+.female ul{
+    list-style: none;
+    float: right;
+}.female ul li{
+
+    float: right;width: 33.3333%;
+
+}.حريم{
+    width: 330px;
+    height: 190px;
+}.more{
+    float: left;
+}.more p,.more span{
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    
+}.request,.call{
+    clear: both;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 40px;
+}input[type="text"]{
+    display: block;
+}textarea{
+    height: 100px;
+
+}.call{
+    background-color: slategray;
+    
+    direction: rtl;
+
+}
