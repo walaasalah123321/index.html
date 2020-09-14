@@ -1,0 +1,84 @@
+*{
+    transition-duration:.5s all ease-in-out;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+
+}
+.background
+{    background-image: url(../newfolder/images.jpg);
+     background-repeat: no-repeat;
+     background-size: 100%;
+     margin: -20px;
+     background-attachment: fixed;
+     min-height: 150px;
+}.background p{padding: 50px;
+}.background ul{
+    list-style: none;
+}.block{
+    background-color:black;
+    color: white;
+    width: 100%;
+    overflow: hidden;
+    background-attachment: fixed;
+    padding: 20px 20px 10px;
+    margin: -10px -15px 0px ;
+    text-align: right;
+}.left{ 
+    padding: 10px;
+}.home{
+    background-color: green; padding: 10px;
+     float: left;margin: -8px 10px 5px;
+}.left:hover{
+    background-color: grey;
+}.time{
+    background-color: mediumaquamarine; 
+    margin:0px 100px; padding: 20px;
+ }details{
+     margin:50px 100px ;
+    }.content{
+        top: 70px; margin-left: -80px;
+        background-color: rgb(30, 179, 62);
+         padding: 15px;position: absolute;
+         border-radius: 2px;
+width: 80px;
+}.project{
+    top: 120px; margin-left:-80px;
+     background-color: mediumblue;
+      padding: 15px; position: absolute;
+      border-radius: 2px;width: 80px;
+}.homee{
+    top: 170px; margin-left:-80px;
+     background-color: rgb(209, 33, 107);
+     padding: 15px; position: absolute;
+     border-radius: 2px;width: 80px;
+}.blog{
+        top: 220px; margin-left:-80px; 
+        background-color: rgb(41, 41, 44);
+         padding: 15px; position: absolute;
+         border-radius: 2px;
+            width: 80px;
+}.blog:hover,.homee:hover,.project:hover,.content:hover{
+    left: 80px; position: absolute;
+}.data{
+    background-image: url("../newfolder/walaa.jpg");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+      background-size: 100%;
+       margin: 50px -20px;
+    padding: 60px;
+}input{background-color: rosybrown;
+    padding: 30px; width: 90%;}
+.progress{
+    background-image: url(../newfolder/2020.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-size: 100%; 
+     padding: 50px; margin: auto -20px;
+}.progress p{
+    background-color: seagreen; padding: 20px;
+}.copy{
+    background-image: url("../newfolder/images.jpg"); background-repeat: no-repeat;
+     background-size: 100%;padding: 50px;
+     background-attachment: fixed;
+     margin: 50px -20px 0px;text-align: center;}
+
+
